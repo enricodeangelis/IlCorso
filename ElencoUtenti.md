@@ -5,3 +5,4 @@
 Per cortesia aggiungete qui di seguito l'elenco dei vostri usernames su github
 
 - DrBenghi - Claudio Benghi
+- saragusme - Sara Gusmeroli
