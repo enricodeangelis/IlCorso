@@ -34,3 +34,4 @@ Alla fine di questa operazione, come si vede le modifiche remote sono state incl
 
 ![image](https://user-images.githubusercontent.com/101411317/157974362-6a19cd9c-c2d5-4a03-9583-1c2cd8a06565.png)
 
+La medesima cosa si potrebbe fare con il contributo di @alberto2archetti, ma nell'occasione aspettero' che venga creata una PR.
