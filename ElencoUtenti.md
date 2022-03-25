@@ -12,6 +12,7 @@ Per cortesia aggiungete qui di seguito l'elenco dei vostri usernames su github
 - adeledachille - Adele D'Achille
 - fabianocan - Fabiano Canclini
 - LorPapa - Lorenzo Papa
+- AndreaEMBruzzi - Andrea Bruzzi
 - lucaraganato - Luca Raganato
 - Dima2399 - Lorenzo Di Martino
 - AndreaLamberti - Andrea Lamberti
