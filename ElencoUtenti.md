@@ -10,6 +10,8 @@ Per cortesia aggiungete qui di seguito l'elenco dei vostri usernames su github
 - adeledachille - Adele D'Achille
 - fabianocan - Fabiano Canclini
 - LorPapa - Lorenzo Papa
+- rachelecalandrino - Rachele Calandrino
+
 - matteomaietta - Matteo Maietta
 - allegravalagussa - Allegra Valagussa
 - GiacomoPorta - Giacomo Porta
