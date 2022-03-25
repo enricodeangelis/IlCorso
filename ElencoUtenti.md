@@ -4,7 +4,6 @@
 
 Per cortesia aggiungete qui di seguito l'elenco dei vostri usernames su github
 
-- DrBenghi - Claudio Benghi
 - saragusme - Sara Gusmeroli
 - Letizia2699 - Letizia Mauri
 - LuPo98 - Luca Pozzi
@@ -21,3 +20,7 @@ Per cortesia aggiungete qui di seguito l'elenco dei vostri usernames su github
 - SilviaGavioli - Silvia Gavioli
 - GiuliaRossetti - Giulia Rossetti
 - MatteoGhioni99 - Matteo Ghioni
+
+## Elenco dei tutors
+
+- DrBenghi - Claudio Benghi
