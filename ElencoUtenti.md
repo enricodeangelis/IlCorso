@@ -12,3 +12,4 @@ Per cortesia aggiungete qui di seguito l'elenco dei vostri usernames su github
 - adeledachille - Adele D'Achille
 - fabianocan - Fabiano Canclini
 - LorPapa - Lorenzo Papa
+- lucaraganato - Luca Raganato
