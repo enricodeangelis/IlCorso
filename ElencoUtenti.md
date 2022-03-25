@@ -17,6 +17,7 @@ Per cortesia aggiungete qui di seguito l'elenco dei vostri usernames su github
 - Dima2399 - Lorenzo Di Martino
 - AndreaLamberti - Andrea Lamberti
 - albertoarchetti - Alberto Archetti
-- Gianpiero1 - Gianpiero Capriotti 
+- Gianpiero1 - Gianpiero Capriotti
 - SilviaGavioli - Silvia Gavioli
+- GiuliaRossetti - Giulia Rossetti
 - MatteoGhioni99 - Matteo Ghioni
