@@ -26,3 +26,4 @@ Per cortesia aggiungete qui di seguito l'elenco dei vostri usernames su github
 ## Elenco dei tutors
 
 - DrBenghi - Claudio Benghi
+- enricodeangelis - Enrico De Angelis
