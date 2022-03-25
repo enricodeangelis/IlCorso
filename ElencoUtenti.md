@@ -13,3 +13,7 @@ Per cortesia aggiungete qui di seguito l'elenco dei vostri usernames su github
 - fabianocan - Fabiano Canclini
 - LorPapa - Lorenzo Papa
 - AndreaLamberti - Andrea Lamberti
+- albertoarchetti - Alberto Archetti
+- Gianpiero1 - Gianpiero Capriotti 
+- SilviaGavioli - Silvia Gavioli
+
