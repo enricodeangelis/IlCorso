@@ -11,7 +11,6 @@ Per cortesia aggiungete qui di seguito l'elenco dei vostri usernames su github
 - fabianocan - Fabiano Canclini
 - LorPapa - Lorenzo Papa
 - rachelecalandrino - Rachele Calandrino
-
 - matteomaietta - Matteo Maietta
 - allegravalagussa - Allegra Valagussa
 - GiacomoPorta - Giacomo Porta
@@ -25,7 +24,7 @@ Per cortesia aggiungete qui di seguito l'elenco dei vostri usernames su github
 - GiuliaRossetti - Giulia Rossetti
 - MatteoGhioni99 - Matteo Ghioni
 
-## Elenco dei tutors
+## Elenco dei GITtutors
 
 - DrBenghi - Claudio Benghi
-- enricodeangelis - Enrico De Angelis
+- enricodeangelis - Enrico De Angelis (trying)
